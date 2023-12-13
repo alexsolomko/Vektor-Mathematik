@@ -5,11 +5,11 @@
 
 - Einen Konstruktor in dem x, y, z mit Parametern initialisiert werden
 
-- "+" Operator für die Addition mit einem anderen Vektor
+- Addition Operator für die Addition mit einem anderen Vektor
 
-- "-" Operator für die Substraktion mit einem anderen Vektor
+- Substraktion Operator für die Substraktion mit einem anderen Vektor
 
-- "*" Operator für die Multiplikation mit einem Skalar (Zahl)
+- Multiplikation Operator für die Multiplikation mit einem Skalar (Zahl)
 
 - Methode die die Distanz zwischen zwei Vektoren/Punkten berechnet und als float zurückgeben. Implementiere diese Methode in einer statischen und nicht-statischen Version.
 
